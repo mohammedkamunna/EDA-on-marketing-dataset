@@ -1,2 +1,9 @@
 # EDA-on-marketing-dataset
 Complete EDA on a real data set from marketing campaign for sport wear group.
+
+data set descrebtion:
+
+The data is from marketing campaign for sport wear group; this data contains info about the product, customer and marketing campaign. The label is the convergence of a customer, 1 if a specific customer buy this product and 0 if not.
+This data is 100000 row and 24 columns (100000 * 24).
+This data is collected from 4/1/2015 to 30/4/2017.
+
