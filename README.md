@@ -8,4 +8,5 @@ This data is 100000 row and 24 columns (100000 * 24).
 This data is collected from 4/1/2015 to 30/4/2017.
 
 modeling:
+
 Decision tree gives 95 % accuracy on test data.
