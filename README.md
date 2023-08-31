@@ -11,11 +11,11 @@ This data is collected from 4/1/2015 to 30/4/2017.
 
 2-Data cleaning and EDA:
 
-more details specified in the report provided
+more details specified in the report provided.
 
 3-Data Preprocessing:
 
-more details specified in the report provided
+more details specified in the report provided.
 
 4-apply machine leraning models:
 
